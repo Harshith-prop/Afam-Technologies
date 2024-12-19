@@ -1,0 +1,97 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Name2,Survived3
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S,"Braund, Mr. Owen Harris",Did Not Survive
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Survived
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Survived
+7,0,1,"McCarthy, Mr. Timothy J",male,54,0,0,17463,51.8625,E46,S,"McCarthy, Mr. Timothy J",Did Not Survive
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S,"Sandstrom, Miss. Marguerite Rut",Survived
+12,1,1,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,C103,S,"Bonnell, Miss. Elizabeth",Survived
+22,1,2,"Beesley, Mr. Lawrence",male,34,0,0,248698,13,D56,S,"Beesley, Mr. Lawrence",Survived
+24,1,1,"Sloper, Mr. William Thompson",male,28,0,0,113788,35.5,A6,S,"Sloper, Mr. William Thompson",Survived
+28,0,1,"Fortune, Mr. Charles Alexander",male,19,3,2,19950,263,C23 C25 C27,S,"Fortune, Mr. Charles Alexander",Did Not Survive
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,146.5208,B78,C,"Spencer, Mrs. William Augustus (Marie Eugenie)",Survived
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC 17572,76.7292,D33,C,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Survived
+55,0,1,"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113509,61.9792,B30,C,"Ostby, Mr. Engelhart Cornelius",Did Not Survive
+62,1,1,"Icard, Miss. Amelie",female,38,0,0,113572,80,B28,,"Icard, Miss. Amelie",Survived
+63,0,1,"Harris, Mr. Henry Birkhardt",male,45,1,0,36973,83.475,C83,S,"Harris, Mr. Henry Birkhardt",Did Not Survive
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29,0,0,C.A. 29395,10.5,F33,S,"Nye, Mrs. (Elizabeth Ramell)",Survived
+76,0,3,"Moen, Mr. Sigurd Hansen",male,25,0,0,348123,7.65,F G73,S,"Moen, Mr. Sigurd Hansen",Did Not Survive
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E.P. 5734,61.175,E31,S,"Chaffee, Mr. Herbert Fuller",Did Not Survive
+97,0,1,"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,34.6542,A5,C,"Goldschmidt, Mr. George B",Did Not Survive
+98,1,1,"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,63.3583,D10 D12,C,"Greenfield, Mr. William Bertram",Survived
+103,0,1,"White, Mr. Richard Frasar",male,21,0,1,35281,77.2875,D26,S,"White, Mr. Richard Frasar",Did Not Survive
+111,0,1,"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,52,C110,S,"Porter, Mr. Walter Chamberlain",Did Not Survive
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24,0,1,PC 17558,247.5208,B58 B60,C,"Baxter, Mr. Quigg Edmond",Did Not Survive
+129,1,3,"Peter, Miss. Anna",female,,1,1,2668,22.3583,F E69,C,"Peter, Miss. Anna",Survived
+137,1,1,"Newsom, Miss. Helen Monypeny",female,19,0,2,11752,26.2833,D47,S,"Newsom, Miss. Helen Monypeny",Survived
+140,0,1,"Giglio, Mr. Victor",male,24,0,0,PC 17593,79.2,B86,C,"Giglio, Mr. Victor",Did Not Survive
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26,F2,S,"Navratil, Mr. Michel (""Louis M Hoffman"")",Did Not Survive
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,66.6,C2,S,"Pears, Mrs. Thomas (Edith Wearne)",Survived
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,55,E33,S,"Chibnall, Mrs. (Edith Martha Bowerman)",Survived
+171,0,1,"Van der hoef, Mr. Wyckoff",male,61,0,0,111240,33.5,B19,S,"Van der hoef, Mr. Wyckoff",Did Not Survive
+175,0,1,"Smith, Mr. James Clinch",male,56,0,0,17764,30.6958,A7,C,"Smith, Mr. James Clinch",Did Not Survive
+178,0,1,"Isham, Miss. Ann Elizabeth",female,50,0,0,PC 17595,28.7125,C49,C,"Isham, Miss. Ann Elizabeth",Did Not Survive
+184,1,2,"Becker, Master. Richard F",male,1,2,1,230136,39,F4,S,"Becker, Master. Richard F",Survived
+186,0,1,"Rood, Mr. Hugh Roscoe",male,,0,0,113767,50,A32,S,"Rood, Mr. Hugh Roscoe",Did Not Survive
+195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,0,PC 17610,27.7208,B4,C,"Brown, Mrs. James Joseph (Margaret Tobin)",Survived
+210,1,1,"Blank, Mr. Henry",male,40,0,0,112277,31,A31,C,"Blank, Mr. Henry",Survived
+216,1,1,"Newell, Miss. Madeleine",female,31,1,0,35273,113.275,D36,C,"Newell, Miss. Madeleine",Survived
+219,1,1,"Bazzani, Miss. Albina",female,32,0,0,11813,76.2917,D15,C,"Bazzani, Miss. Albina",Survived
+225,1,1,"Hoyt, Mr. Frederick Maxfield",male,38,1,0,19943,90,C93,S,"Hoyt, Mr. Frederick Maxfield",Survived
+249,1,1,"Beckwith, Mr. Richard Leonard",male,37,1,1,11751,52.5542,D35,S,"Beckwith, Mr. Richard Leonard",Survived
+258,1,1,"Cherry, Miss. Gladys",female,30,0,0,110152,86.5,B77,S,"Cherry, Miss. Gladys",Survived
+263,0,1,"Taussig, Mr. Emil",male,52,1,1,110413,79.65,E67,S,"Taussig, Mr. Emil",Did Not Survive
+264,0,1,"Harrison, Mr. William",male,40,0,0,112059,0,B94,S,"Harrison, Mr. William",Did Not Survive
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,153.4625,C125,S,"Graham, Mrs. William Thompson (Edith Junkins)",Survived
+270,1,1,"Bissette, Miss. Amelia",female,35,0,0,PC 17760,135.6333,C99,S,"Bissette, Miss. Amelia",Survived
+274,0,1,"Natsch, Mr. Charles H",male,37,0,1,PC 17596,29.7,C118,C,"Natsch, Mr. Charles H",Did Not Survive
+276,1,1,"Andrews, Miss. Kornelia Theodosia",female,63,1,0,13502,77.9583,D7,S,"Andrews, Miss. Kornelia Theodosia",Survived
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,11967,91.0792,B49,C,"Bishop, Mrs. Dickinson H (Helen Walton)",Survived
+293,0,2,"Levy, Mr. Rene Jacques",male,36,0,0,SC/Paris 2163,12.875,D,C,"Levy, Mr. Rene Jacques",Did Not Survive
+298,0,1,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,C22 C26,S,"Allison, Miss. Helen Loraine",Did Not Survive
+299,1,1,"Saalfeld, Mr. Adolphe",male,,0,0,19988,30.5,C106,S,"Saalfeld, Mr. Adolphe",Survived
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC 17758,108.9,C65,C,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Survived
+310,1,1,"Francatelli, Miss. Laura Mabel",female,30,0,0,PC 17485,56.9292,E36,C,"Francatelli, Miss. Laura Mabel",Survived
+311,1,1,"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,83.1583,C54,C,"Hays, Miss. Margaret Bechstein",Survived
+312,1,1,"Ryerson, Miss. Emily Borie",female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,C,"Ryerson, Miss. Emily Borie",Survived
+319,1,1,"Wick, Miss. Mary Natalie",female,31,0,2,36928,164.8667,C7,S,"Wick, Miss. Mary Natalie",Survived
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,16966,134.5,E34,C,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Survived
+330,1,1,"Hippach, Miss. Jean Gertrude",female,16,0,1,111361,57.9792,B18,C,"Hippach, Miss. Jean Gertrude",Survived
+332,0,1,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,S,"Partner, Mr. Austen",Did Not Survive
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,35,C128,S,"Williams-Lambert, Mr. Fletcher Fellows",Did Not Survive
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,0,110813,75.25,D37,C,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Survived
+370,1,1,"Aubart, Mme. Leontine Pauline",female,24,0,0,PC 17477,69.3,B35,C,"Aubart, Mme. Leontine Pauline",Survived
+371,1,1,"Harder, Mr. George Achilles",male,25,1,0,11765,55.4417,E50,C,"Harder, Mr. George Achilles",Survived
+378,0,1,"Widener, Mr. Harry Elkins",male,27,0,2,113503,211.5,C82,C,"Widener, Mr. Harry Elkins",Did Not Survive
+391,1,1,"Carter, Mr. William Ernest",male,36,1,2,113760,120,B96 B98,S,"Carter, Mr. William Ernest",Survived
+430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S,"Pickard, Mr. Berk (Berk Trembisky)",Survived
+435,0,1,"Silvey, Mr. William Baird",male,50,1,0,13507,55.9,E44,S,"Silvey, Mr. William Baird",Did Not Survive
+446,1,1,"Dodge, Master. Washington",male,4,0,2,33638,81.8583,A34,S,"Dodge, Master. Washington",Survived
+453,0,1,"Foreman, Mr. Benjamin Laventall",male,30,0,0,113051,27.75,C111,C,"Foreman, Mr. Benjamin Laventall",Did Not Survive
+454,1,1,"Goldenberg, Mr. Samuel L",male,49,1,0,17453,89.1042,C92,C,"Goldenberg, Mr. Samuel L",Survived
+463,0,1,"Gee, Mr. Arthur H",male,47,0,0,111320,38.5,E63,S,"Gee, Mr. Arthur H",Did Not Survive
+497,1,1,"Eustis, Miss. Elizabeth Mussey",female,54,1,0,36947,78.2667,D20,C,"Eustis, Miss. Elizabeth Mussey",Survived
+513,1,1,"McGough, Mr. James Robert",male,36,0,0,PC 17473,26.2875,E25,S,"McGough, Mr. James Robert",Survived
+516,0,1,"Walker, Mr. William Anderson",male,47,0,0,36967,34.0208,D46,S,"Walker, Mr. William Anderson",Did Not Survive
+521,1,1,"Perreault, Miss. Anne",female,30,0,0,12749,93.5,B73,S,"Perreault, Miss. Anne",Survived
+528,0,1,"Farthing, Mr. John",male,,0,0,PC 17483,221.7792,C95,S,"Farthing, Mr. John",Did Not Survive
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,22,0,2,13568,49.5,B39,C,"Frolicher, Miss. Hedwig Margaritha",Survived
+541,1,1,"Crosby, Miss. Harriet R",female,36,0,2,WE/P 5735,71,B22,S,"Crosby, Miss. Harriet R",Survived
+545,0,1,"Douglas, Mr. Walter Donald",male,50,1,0,PC 17761,106.425,C86,C,"Douglas, Mr. Walter Donald",Did Not Survive
+551,1,1,"Thayer, Mr. John Borland Jr",male,17,0,2,17421,110.8833,C70,C,"Thayer, Mr. John Borland Jr",Survived
+557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,0,11755,39.6,A16,C,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Survived
+572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,0,11769,51.4792,C101,S,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Survived
+584,0,1,"Ross, Mr. John Hugo",male,36,0,0,13049,40.125,A10,C,"Ross, Mr. John Hugo",Did Not Survive
+626,0,1,"Sutton, Mr. Frederick",male,61,0,0,36963,32.3208,D50,S,"Sutton, Mr. Frederick",Did Not Survive
+631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80,0,0,27042,30,A23,S,"Barkworth, Mr. Algernon Henry Wilson",Survived
+663,0,1,"Colley, Mr. Edward Pomeroy",male,47,0,0,5727,25.5875,E58,S,"Colley, Mr. Edward Pomeroy",Did Not Survive
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36,0,1,PC 17755,512.3292,B51 B53 B55,C,"Cardeza, Mr. Thomas Drake Martinez",Survived
+690,1,1,"Madill, Miss. Georgette Alexandra",female,15,0,1,24160,211.3375,B5,S,"Madill, Miss. Georgette Alexandra",Survived
+691,1,1,"Dick, Mr. Albert Adrian",male,31,1,0,17474,57,B20,S,"Dick, Mr. Albert Adrian",Survived
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC 17757,227.525,C62 C64,C,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Survived
+711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,0,PC 17482,49.5042,C90,C,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Survived
+742,0,1,"Cavendish, Mr. Tyrell William",male,36,1,0,19877,78.85,C46,S,"Cavendish, Mr. Tyrell William",Did Not Survive
+752,1,3,"Moor, Master. Meier",male,6,0,1,392096,12.475,E121,S,"Moor, Master. Meier",Survived
+777,0,3,"Tobin, Mr. Roger",male,,0,0,383121,7.75,F38,Q,"Tobin, Mr. Roger",Did Not Survive
+797,1,1,"Leader, Dr. Alice (Farnham)",female,49,0,0,17465,25.9292,D17,S,"Leader, Dr. Alice (Farnham)",Survived
+854,1,1,"Lines, Miss. Mary Conover",female,16,0,1,PC 17592,39.4,D28,S,"Lines, Miss. Mary Conover",Survived
+868,0,1,"Roebling, Mr. Washington Augustus II",male,31,0,0,PC 17590,50.4958,A24,S,"Roebling, Mr. Washington Augustus II",Did Not Survive
